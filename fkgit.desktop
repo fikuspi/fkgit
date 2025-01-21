@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Fkgit
+Comment=A simple package manager for GitHub repositories
+Exec=fkgit
+Icon=utilities-terminal
+Terminal=true
+Type=Application
+Categories=Utility;Development;
