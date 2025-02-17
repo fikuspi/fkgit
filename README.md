@@ -7,8 +7,8 @@ Write this into your terminal:
 
 `git clone https://github.com/fikuspi/fkgit`
 
-`./build.sh`
-
 `cd fkgit`
+
+`./build.sh`
 
 `chmod +x fkgit | sudo make install`
